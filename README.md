@@ -53,7 +53,7 @@ If you want to contact me, please leave me a message!
 
 -->
 
-### Award
+### ✨ Award
 
 - 대학생 프로그래밍 경시대회 (ACM-ICPC)
   - 2021 ICPC Asia Seoul Regional **13th (장려상/한국지능정보사회진흥원장상)**
@@ -75,15 +75,18 @@ If you want to contact me, please leave me a message!
 
 <br/>  
 
+<!--
 
 ### ✨ Summary
 
 - 🔭 I’m currently working on [11st corp](https://www.11st.co.kr/) as a machine learning engineer.
 - 🌱 I'm currently learning Deep Learning, Computer Vision.
 - 📝 I regularly write articles on [my blog](https://butter-shower.tistory.com).  
-  
+
 
 <br/>  
+
+-->
 
 <div sttyle='float:left'>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
