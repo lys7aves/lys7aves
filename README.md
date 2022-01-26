@@ -1,6 +1,3 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=lys7aves)
-
-
 # Profile
 
 **이유섭**
@@ -132,3 +129,9 @@ https://github.com/lys7aves/othello
   - 초등부 전국대회 **은상** 1회 수상 (2011)
 - 세계정보올림피아드 (IOI)
   - **국가대표 상비군 발탁** (2013)
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=lys7aves)
+
+![lys7aves's github stats](https://github-readme-stats.vercel.app/api?username=lys7aves&show_icons=true)
+[![lys7aves's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lys7aves&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/lys7aves)
