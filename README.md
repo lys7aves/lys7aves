@@ -59,6 +59,8 @@ Etc: 	Notion	Slack	**Git**
 
 ## Dress YourSelf
 
+https://github.com/lys7aves/DYS
+
 **인공지능 개발자**
 
 - 사용자가 보유한 의류를 기반으로 맞춤형 코디 서비스를 제공하는 어플리케이션 제작
