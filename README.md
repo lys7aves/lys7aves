@@ -1,3 +1,6 @@
+![trophy](https://github-profile-trophy.vercel.app/?username=lys7aves)
+
+
 # Profile
 
 **이유섭**
