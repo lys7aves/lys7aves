@@ -30,7 +30,7 @@
 
 
 
-### Hello, I'm Jiyeon Lee!
+### Hello, I'm Yuseop Lee!
 
 Good day!
 
@@ -41,10 +41,30 @@ If you want to contact me, please leave me a message!
 <br/>
 
 ### 💫 Experience
+
 - **11st** - Machine learning developer *(Jan 2021 ~)*
 - **SAP** - Student Intern, Data analyst *(Jan 2020 - Jul 2020)*
 - **Google Developers** - DSC(Developer Student Clubs) Lead at South Korea *(2019-2020)*  
-  
+
+### Award
+
+- 대학생 프로그래밍 경시대회 (ACM-ICPC)
+  - 2021 ICPC Asia Seoul Regional **13th (장려상/한국지능정보사회진흥원장상)**
+  - 2020 ICPC Asia Seoul Regional **18th**
+  - 2019 ICPC Asia Seoul Regional **29th** 
+- 고려대학교 프로그래밍 경시대회 (KCPC)
+  - 2021 Div.1 **7th (우수상)**
+  - 2018 Advanced Div **4th (우수상)** 
+- 전국 대학생 프로그래밍 경시대회 (UCPC)
+  - 2020 UCPC **16th**
+- 2020 ETRI 자율성장 인공지능 경진대회 **13th**
+- 한국정보올림피아드 (KOI)
+  - 고등부 전국대회 **은상** 3회 수상 (2015-2018)
+  - 중등부 전국대회 **은상** 2회 수상 (2012, 2014)
+  - 중등부 전국대회 **동상** 1회 수상 (2013)
+  - 초등부 전국대회 **은상** 1회 수상 (2011)
+- 세계정보올림피아드 (IOI)
+  - **국가대표 상비군 발탁** (2013)
 
 <br/>  
 
