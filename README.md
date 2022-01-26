@@ -42,9 +42,16 @@ If you want to contact me, please leave me a message!
 
 ### 💫 Experience
 
+- **SW 마에스트로** - AI developer *(Apr 2021 - Nov 2021)*
+
+
+<!--
+
 - **11st** - Machine learning developer *(Jan 2021 ~)*
 - **SAP** - Student Intern, Data analyst *(Jan 2020 - Jul 2020)*
 - **Google Developers** - DSC(Developer Student Clubs) Lead at South Korea *(2019-2020)*  
+
+-->
 
 ### Award
 
@@ -102,7 +109,7 @@ If you want to contact me, please leave me a message!
 
 
 <!--
-**jiyeoon/jiyeoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lys7aves/lys7aves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
