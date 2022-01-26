@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=jiyeoon&&style=flat-square" align="right" />
+<img src="https://komarev.com/ghpvc/?username=lys7aves&&style=flat-square" align="right" />
 </div>  
   
 
@@ -8,9 +8,11 @@
 ## Hi There 👋  
   
 
-<a href="https://github.com/jiyeoon" target="_blank">
+<a href="https://github.com/lys7aves" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
+<!--
 <a href="https://linkedin.com/in/jiyeon-rian-lee" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -23,6 +25,7 @@
 <a href="https://twitter.com/JiyeonL91200402" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+-->
   
 
 
