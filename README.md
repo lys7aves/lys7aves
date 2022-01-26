@@ -52,9 +52,9 @@ If you want to contact me, please leave me a message!
 
 ### 🌱 Project
 
-- **Dress YourSelf** - 인공지능을 활용한 맞춤 코디 어플리케이션 *(Apr 2021 - Nov 2021)*
-- **나홀Law** - 질의응답 기반 판례 추천 웹서비스 *(Jun 2020 - Feb 2021)*
-- **오델로 AI** - 오델로 게임 AI *(2016)*
+- [**Dress YourSelf**](https://github.com/lys7aves/DYS) - 인공지능을 활용한 맞춤 코디 어플리케이션 *(Apr 2021 - Nov 2021)*
+- [**나홀Law**](https://github.com/lys7aves/LawAkinator) - 질의응답 기반 판례 추천 웹서비스 *(Jun 2020 - Feb 2021)*
+- [**오델로 AI**](https://github.com/lys7aves/DYS) - 오델로 게임 AI *(2016)*
 
 ### ✨ Award
 
