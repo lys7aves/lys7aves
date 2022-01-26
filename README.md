@@ -59,7 +59,7 @@ Etc: 	Notion	Slack	**Git**
 
 ## Dress YourSelf
 
-https://github.com/lys7aves/DYS
+~~https://github.com/lys7aves/DYS~~
 
 **인공지능 개발자**
 
