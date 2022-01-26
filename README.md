@@ -66,6 +66,8 @@ Etc: 	Notion	Slack	**Git**
 
 ## 고려대학교 자기주도창의설계 프로그램
 
+https://github.com/lys7aves/LawAkinator
+
 **인공지능 개발자**
 
 2020 ~ 2021
