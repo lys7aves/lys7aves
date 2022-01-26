@@ -26,9 +26,6 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 -->
-  
-
-
 
 ### Hello, I'm Yuseop Lee!
 
@@ -97,6 +94,7 @@ If you want to contact me, please leave me a message!
 
 -->
 
+<!--
 <div sttyle='float:left'>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
@@ -104,6 +102,7 @@ If you want to contact me, please leave me a message!
 </div>
 
 <br/>  
+-->
 
 
 ## Github Stats  
