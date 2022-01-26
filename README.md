@@ -12,6 +12,7 @@ Linkedin: https://www.linkedin.com/in/lys7aves/
 
 
 
+
 # About Me
 
  알고리즘과 C/C++ 12년, Python과 Java 4년, ML 2년차 개발자로 패션AI, 법AI 프로젝트 개발 경험이 있습니다.
@@ -21,6 +22,7 @@ Linkedin: https://www.linkedin.com/in/lys7aves/
  평소 **알고리즘**을 꾸준히 공부하고 있으며, 협업을 위해 코드를 읽기 좋게 짜려고 노력하며, 오픈 소스를 자주 읽어봅니다. 현재 **Python**을 이용한 프로젝트와 **Machine Learning**을 집중적으로 공부하고 있습니다.
 
  팀원과의 **소통**을 중요시 여기고, **사람**을 좋아합니다. 독성없는 **피드백**을 선호하며, 팀원을 **믿고** 달려갑니다.
+
 
 
 
@@ -36,7 +38,9 @@ Etc: 	Notion	Slack	**Git**
 
 
 
+
 # Project & Experience
+
 
 
 
@@ -64,6 +68,7 @@ Etc: 	Notion	Slack	**Git**
 
 
 
+
 ## 고려대학교 자기주도창의설계 프로그램
 
 https://github.com/lys7aves/LawAkinator
@@ -82,6 +87,7 @@ https://github.com/lys7aves/LawAkinator
 
 
 
+
 ## 오셀로 AI
 
 https://github.com/lys7aves/othello
@@ -94,9 +100,11 @@ https://github.com/lys7aves/othello
 
 
 
+
 # Education
 
 - 고려대학교 **사이버국방학과** 전공, 융합보안학과 융합전공, 2018.03 ~ 2022.02 (예정)
+
 
 
 
