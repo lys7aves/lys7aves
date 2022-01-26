@@ -44,7 +44,7 @@ If you want to contact me, please leave me a message!
 
 <!--
 
-- **11st** - Machine learning developer *(Jan 2021 ~)*
+- [**11st**](https://www.swmaestro.org/) - Machine learning developer *(Jan 2021 ~)*
 - **SAP** - Student Intern, Data analyst *(Jan 2020 - Jul 2020)*
 - **Google Developers** - DSC(Developer Student Clubs) Lead at South Korea *(2019-2020)*  
 
