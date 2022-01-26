@@ -113,7 +113,7 @@ https://github.com/lys7aves/othello
 # Award
 
 - 대학생 프로그래밍 경시대회 (ACM-ICPC)
-  - 2021 ICPC Asia Seoul Regional **13th (장려상)**
+  - 2021 ICPC Asia Seoul Regional **13th (장려상/한국지능정보사회진흥원장상)**
   - 2020 ICPC Asia Seoul Regional **18th**
   - 2019 ICPC Asia Seoul Regional **29th** 
 - 고려대학교 프로그래밍 경시대회 (KCPC)
