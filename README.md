@@ -59,10 +59,6 @@ If you want to contact me, please leave me a message!
 - **나홀Law** - 질의응답 기반 판례 추천 웹서비스 *(Jun 2020 - Feb 2021)*
 - **오델로 AI** - 오델로 게임 AI *(2016)*
 
-#### 나홀Law
-
-#### 오델로 AI
-
 ### ✨ Award
 
 - 대학생 프로그래밍 경시대회 (ACM-ICPC)
@@ -75,6 +71,8 @@ If you want to contact me, please leave me a message!
 - 전국 대학생 프로그래밍 경시대회 (UCPC)
   - 2020 UCPC **16th**
 - 2020 ETRI 자율성장 인공지능 경진대회 **13th**
+
+<!--
 - 한국정보올림피아드 (KOI)
   - 고등부 전국대회 **은상** 3회 수상 (2015-2018)
   - 중등부 전국대회 **은상** 2회 수상 (2012, 2014)
@@ -82,6 +80,7 @@ If you want to contact me, please leave me a message!
   - 초등부 전국대회 **은상** 1회 수상 (2011)
 - 세계정보올림피아드 (IOI)
   - **국가대표 상비군 발탁** (2013)
+-->
 
 <br/>  
 
