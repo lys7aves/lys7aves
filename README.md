@@ -46,7 +46,7 @@ If you want to contact me, please leave me a message!
 ### ✨ Award
 
 - Google Hash Code
-  - 2022 Qualification Round World rank: **2250th** / Korea rank: 35th
+  - 2022 Qualification Round World rank: **2550th** / Korea rank: 35th
 - 대학생 프로그래밍 경시대회 (ACM-ICPC)
   - 2021 ICPC Asia Seoul Regional **13th (장려상/한국지능정보사회진흥원장상)**
   - 2020 ICPC Asia Seoul Regional **18th**
