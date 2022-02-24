@@ -45,6 +45,8 @@ If you want to contact me, please leave me a message!
 
 ### ✨ Award
 
+- Google Hash Code
+  - 2022 Qualification Round World rank: **2250th** / Korea rank: 35th
 - 대학생 프로그래밍 경시대회 (ACM-ICPC)
   - 2021 ICPC Asia Seoul Regional **13th (장려상/한국지능정보사회진흥원장상)**
   - 2020 ICPC Asia Seoul Regional **18th**
@@ -54,7 +56,7 @@ If you want to contact me, please leave me a message!
   - 2018 Advanced Div **4th (우수상)** 
 - 전국 대학생 프로그래밍 경시대회 (UCPC)
   - 2020 UCPC **16th**
-- 2020 ETRI 자율성장 인공지능 경진대회 **13th**
+- 2020 ETRI 자율성장 인공지능 경진대회 Team rank: **7th** / Model rank: 13th
 <!--
 - 한국정보올림피아드 (KOI)
   - 고등부 전국대회 **은상** 3회 수상 (2015-2018)
