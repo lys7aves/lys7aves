@@ -18,8 +18,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-<br/>
-
 <a href="https://codeforces.com/profile/aves" target="_blank">
 <img src=https://img.shields.io/badge/codeforces-%2324292e.svg?&style=for-the-badge&logo=Codeforces&logoColor=white&color=blue alt=Codeforces style="margin-bottom: 5px;" />
 </a>
