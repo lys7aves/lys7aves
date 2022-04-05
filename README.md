@@ -32,7 +32,7 @@
 
 Good day!
 
-I am a machine learning developer from South Korea 🇰🇷. I am interested in data science and deep learning and computer vision. I love reading, exercising and communicating! 
+I am a machine learning developer from South Korea 🇰🇷. I am interested in algorithm and deep learning. I love reading, exercising and communicating! 
 
 If you want to contact me, please leave me a message!
 
