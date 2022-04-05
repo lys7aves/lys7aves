@@ -17,10 +17,13 @@
 <a href="https://instagram.com/lys7aves" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>
-
 <a href="https://codeforces.com/profile/aves" target="_blank">
 <img src=https://img.shields.io/badge/codeforces-%2324292e.svg?&style=for-the-badge&logo=Codeforces&logoColor=white&color=blue alt=Codeforces style="margin-bottom: 5px;" />
 </a>
+
+**About Me:** 
+[**resume**](https://github.com/lys7aves/lys7aves/blob/main/Resume/%EC%9D%B4%EC%9C%A0%EC%84%AD%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf) / 
+[**CV**](https://github.com/lys7aves/lys7aves/blob/main/CV/CV_YuseopLee.pdf)
 
 <!--
 <a href="https://www.facebook.com/lys7aves" target="_blank">
@@ -32,7 +35,7 @@
 
 Good day!
 
-I am a machine learning developer from South Korea 🇰🇷. I am interested in algorithm and deep learning. I love reading, exercising and communicating! 
+A machine learning developer who is interested in algorithm and deep learning. I love reading, exercising and communicating!
 
 If you want to contact me, please leave me a message!
 
@@ -51,17 +54,17 @@ If you want to contact me, please leave me a message!
 ### ✨ Award
 
 - Google Hash Code
-  - 2022 Qualification Round World rank: **2550th** / Korea rank: 35th
+  - 2022 Qualification Round World Rank: **2550th Place** / Korea rank: 35th Place
 - 대학생 프로그래밍 경시대회 (ACM-ICPC)
-  - 2021 ICPC Asia Seoul Regional **13th (장려상/한국지능정보사회진흥원장상)**
-  - 2020 ICPC Asia Seoul Regional **18th**
-  - 2019 ICPC Asia Seoul Regional **29th** 
+  - 2021 ICPC Asia Seoul Regional **13th Place(장려상/한국지능정보사회진흥원장상)**
+  - 2020 ICPC Asia Seoul Regional **18th Place**
+  - 2019 ICPC Asia Seoul Regional **29th Place** 
 - 고려대학교 프로그래밍 경시대회 (KCPC)
-  - 2021 Div.1 **7th (우수상)**
-  - 2018 Advanced Div **4th (우수상)** 
+  - 2021 Div.1 **7th Place(우수상)**
+  - 2018 Advanced Div **4th Place(우수상)** 
 - 전국 대학생 프로그래밍 경시대회 (UCPC)
-  - 2020 UCPC **16th**
-- 2020 ETRI 자율성장 인공지능 경진대회 Team rank: **7th** / Model rank: 13th
+  - 2020 UCPC **16th Place**
+- 2020 ETRI 자율성장 인공지능 경진대회 Team Rank: **7th Place** / Model Rank: 13th Place
 <!--
 - 한국정보올림피아드 (KOI)
   - 고등부 전국대회 **은상** 3회 수상 (2015-2018)
