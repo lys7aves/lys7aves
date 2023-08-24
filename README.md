@@ -22,7 +22,7 @@
 </a>
 
 **About Me:** 
-[**resume**](https://github.com/lys7aves/lys7aves/blob/main/Resume/%EC%9D%B4%EC%9C%A0%EC%84%AD%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf) / 
+[**resume**](https://github.com/lys7aves/CV/blob/main/%EC%9D%B4%EC%9C%A0%EC%84%AD%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf) / 
 [**CV**](https://github.com/lys7aves/CV/blob/main/CV_YuseopLee.pdf)
 
 <!--
