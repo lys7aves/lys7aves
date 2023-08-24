@@ -23,7 +23,7 @@
 
 **About Me:** 
 [**resume**](https://github.com/lys7aves/lys7aves/blob/main/Resume/%EC%9D%B4%EC%9C%A0%EC%84%AD%20%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf) / 
-[**CV**](https://github.com/lys7aves/lys7aves/blob/main/CV/CV_YuseopLee.pdf)
+[**CV**](https://github.com/lys7aves/CV/blob/main/CV_YuseopLee.pdf)
 
 <!--
 <a href="https://www.facebook.com/lys7aves" target="_blank">
@@ -42,14 +42,14 @@ If you want to contact me, please leave me a message!
 
 ### 💫 Experience
 
-- [**SW 마에스트로**](https://www.swmaestro.org/) - 12기  *(Apr 2021 - Nov 2021)*
+- [**SW 마에스트로**](https://www.swmaestro.org/) - 12기  *(Apr. 2021 - Nov. 2021)*
 
 
 ### 🌱 Project
 
-- [**Dress YourSelf**](https://github.com/lys7aves/DYS) - 인공지능을 활용한 맞춤 코디 어플리케이션 *(Apr 2021 - Nov 2021)*
-- [**나홀Law**](https://github.com/lys7aves/LawAkinator) - 질의응답 기반 판례 추천 웹서비스 *(Jun 2020 - Feb 2021)*
-- [**오델로 AI**](https://github.com/lys7aves/othello) - 오델로 게임 AI *(2016)*
+- [**Dress YourSelf**](https://github.com/lys7aves/DYS) - 인공지능을 활용한 맞춤 코디 어플리케이션 *(Apr. 2021 - Nov. 2021)*
+- [**나홀Law**](https://github.com/lys7aves/LawAkinator) - 질의응답 기반 판례 추천 웹서비스 *(Jun. 2020 - Feb. 2021)*
+- [**오델로 AI**](https://github.com/lys7aves/othello) - 오델로 게임의 전략적 분석 및 학습 알고리즘 제작 *(2016)*
 
 ### ✨ Award
 
