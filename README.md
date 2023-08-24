@@ -35,15 +35,23 @@
 
 Good day!
 
-A machine learning developer who is interested in algorithm and deep learning. I love reading, exercising and communicating!
+<!-- A machine learning developer who is interested in algorithm and deep learning. I love reading, exercising and communicating! -->
+Passionate graduate student at Seoul National University's Interdisciplinary Program in Artificial Intelligence Graduate School with a keen interest in Object Detection and NLP. Earning a Bachelor's degree in Cyber Defense from Korea University with a GPA of 3.57, showcasing a strong academic foundation. Recognized for programming excellence, achieving 13th place at the ACM International Collegiate Programming Contest(ACM-ICPC) Asia Seoul Regional competition. Excited to bridge academic insights from the past with cutting-edge AI pursuits in academia.
 
 If you want to contact me, please leave me a message!
 
 
+### 🏫 Education
+
+- [**Seoul National University**](https://gsai.snu.ac.kr/) - Master of Science in Interdisciplinary Program in Artificial Intelligence  *(Sep. 2023 - Present)*
+- [**Korea University**](https://gss.korea.ac.kr/ime/info/cyber.do) - Bachelor of Science in (1st) Cyber Defense (2nd) IT Convergence Security  *(Mar. 2018 - Feb. 2023)*
+- [**Jeonnam Science High School**](https://jeonnam-sh.hs.jne.kr/) - Graduated  *(Mar. 2015 - Feb. 2018)*
+
+<!--
 ### 💫 Experience
 
 - [**SW 마에스트로**](https://www.swmaestro.org/) - 12기  *(Apr. 2021 - Nov. 2021)*
-
+-->
 
 ### 🌱 Project
 
